@@ -20,7 +20,7 @@
 * [产品概念](op-yu-saas-chan-pin/page-1/README.md)
   * [数据模型](op-yu-saas-chan-pin/page-1/page-4/README.md)
     * [用户模型](op-yu-saas-chan-pin/page-1/page-4/yong-hu-mo-xing.md)
-    * [事物模型](op-yu-saas-chan-pin/page-1/page-4/shi-wu-mo-xing/README.md)
+    * [事物模型](op-yu-saas-chan-pin/page-1/page-4/shi-wu-mo-xing.md)
       * [无埋点事件](op-yu-saas-chan-pin/page-1/page-4/shi-wu-mo-xing/wu-mai-dian-shi-jian.md)
       * [埋点事件](op-yu-saas-chan-pin/page-1/page-4/shi-wu-mo-xing/mai-dian-shi-jian.md)
     * [统计模型](op-yu-saas-chan-pin/page-1/page-4/tong-ji-mo-xing.md)
