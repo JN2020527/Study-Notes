@@ -3,6 +3,8 @@
 ## 分析方法论
 
 * [用户流转地图](README.md)
+  * [用户流转地图分层](fen-xi-fang-fa-lun/readme/yong-hu-liu-zhuan-di-tu-fen-ceng.md)
+  * [用户流转地图绘制](fen-xi-fang-fa-lun/readme/yong-hu-liu-zhuan-di-tu-hui-zhi.md)
   * [全域流转地图](fen-xi-fang-fa-lun/quan-yu-liu-zhuan-di-tu.md)
   * [平台流转地图](fen-xi-fang-fa-lun/readme/ping-tai-liu-zhuan-di-tu.md)
   * [局部流转地图](fen-xi-fang-fa-lun/readme/ju-bu-liu-zhuan-di-tu.md)
