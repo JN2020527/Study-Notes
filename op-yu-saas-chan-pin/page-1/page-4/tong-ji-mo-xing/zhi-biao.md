@@ -24,3 +24,6 @@ GrowingIO的访问用户数为1
 
 ## 预定义指标
 
+{% embed url="https://docs.growingio.com/v3/introduction/datamodel/analysismodel/predifined-metrics" %}
+预定义指标详细
+{% endembed %}
