@@ -15,6 +15,12 @@
   * [标签体系的评估](fen-xi-fang-fa-lun/biao-qian-ti-xi-de-ping-gu.md)
   * [标签体系的应用](fen-xi-fang-fa-lun/biao-qian-ti-xi-de-ying-yong.md)
 
+## 十大行业牛逼方案
+
+* [三大业态流转地图](shi-da-hang-ye-niu-bi-fang-an/san-da-ye-tai-liu-zhuan-di-tu.md)
+* [电商行业](shi-da-hang-ye-niu-bi-fang-an/dian-shang-hang-ye.md)
+* [新零售行业](shi-da-hang-ye-niu-bi-fang-an/xin-ling-shou-hang-ye.md)
+
 ## OP与SAAS产品
 
 * [产品概念](op-yu-saas-chan-pin/page-1/README.md)
