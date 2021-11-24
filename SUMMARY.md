@@ -20,6 +20,8 @@
 * [电商行业](shi-da-hang-ye-niu-bi-fang-an/dian-shang-hang-ye.md)
 * [新零售行业](shi-da-hang-ye-niu-bi-fang-an/xin-ling-shou-hang-ye/README.md)
   * [新零售方案](shi-da-hang-ye-niu-bi-fang-an/xin-ling-shou-hang-ye/xin-ling-shou-fang-an.md)
+* [SaaS行业](shi-da-hang-ye-niu-bi-fang-an/saas-hang-ye/README.md)
+  * [高客单价方案](shi-da-hang-ye-niu-bi-fang-an/saas-hang-ye/gao-ke-dan-jia-fang-an.md)
 
 ## OP与SAAS产品
 
