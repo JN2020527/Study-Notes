@@ -17,7 +17,7 @@
 
 ## 十大行业牛逼方案
 
-* [三大业态流转地图](shi-da-hang-ye-niu-bi-fang-an/san-da-ye-tai-liu-zhuan-di-tu.md)
+* [新零售方案](shi-da-hang-ye-niu-bi-fang-an/xin-ling-shou-fang-an.md)
 * [电商行业](shi-da-hang-ye-niu-bi-fang-an/dian-shang-hang-ye.md)
 * [新零售行业](shi-da-hang-ye-niu-bi-fang-an/xin-ling-shou-hang-ye.md)
 
