@@ -17,11 +17,12 @@
 
 ## 十大行业牛逼方案
 
-* [电商行业](shi-da-hang-ye-niu-bi-fang-an/dian-shang-hang-ye.md)
-* [新零售行业](shi-da-hang-ye-niu-bi-fang-an/xin-ling-shou-hang-ye/README.md)
-  * [新零售全域流转](shi-da-hang-ye-niu-bi-fang-an/xin-ling-shou-hang-ye/xin-ling-shou-quan-yu-liu-zhuan.md)
-* [SaaS行业](shi-da-hang-ye-niu-bi-fang-an/saas-hang-ye/README.md)
-  * [高客单价全域流转](shi-da-hang-ye-niu-bi-fang-an/saas-hang-ye/gao-ke-dan-jia-quan-yu-liu-zhuan.md)
+* [三大业态流转地图](shi-da-hang-ye-niu-bi-fang-an/san-da-ye-tai-liu-zhuan-di-tu/README.md)
+  * [新零售全域流转](shi-da-hang-ye-niu-bi-fang-an/san-da-ye-tai-liu-zhuan-di-tu/xin-ling-shou-quan-yu-liu-zhuan.md)
+  * [高客单价全域流转](shi-da-hang-ye-niu-bi-fang-an/san-da-ye-tai-liu-zhuan-di-tu/gao-ke-dan-jia-quan-yu-liu-zhuan.md)
+  * [用户留存变现方案](shi-da-hang-ye-niu-bi-fang-an/san-da-ye-tai-liu-zhuan-di-tu/yong-hu-liu-cun-bian-xian-fang-an.md)
+* [新零售行业](shi-da-hang-ye-niu-bi-fang-an/xin-ling-shou-hang-ye.md)
+* [SaaS行业](shi-da-hang-ye-niu-bi-fang-an/saas-hang-ye.md)
 
 ## OP与SAAS产品
 
