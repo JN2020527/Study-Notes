@@ -2,8 +2,8 @@
 
 本节的内容如下：
 
-{% content-ref url="../xin-ling-shou-hang-ye.md" %}
-[xin-ling-shou-hang-ye.md](../xin-ling-shou-hang-ye.md)
+{% content-ref url="xin-ling-shou-quan-yu-liu-zhuan.md" %}
+[xin-ling-shou-quan-yu-liu-zhuan.md](xin-ling-shou-quan-yu-liu-zhuan.md)
 {% endcontent-ref %}
 
 {% content-ref url="gao-ke-dan-jia-quan-yu-liu-zhuan.md" %}
