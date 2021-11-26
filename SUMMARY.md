@@ -14,6 +14,8 @@
   * [标签体系的搭建](fen-xi-fang-fa-lun/biao-qian-ti-xi-de-da-jian.md)
   * [标签体系的评估](fen-xi-fang-fa-lun/biao-qian-ti-xi-de-ping-gu.md)
   * [标签体系的应用](fen-xi-fang-fa-lun/biao-qian-ti-xi-de-ying-yong.md)
+* [A类咨询交付流程](fen-xi-fang-fa-lun/a-lei-zi-xun-jiao-fu-liu-cheng/README.md)
+  * [需求沟通与确认](fen-xi-fang-fa-lun/a-lei-zi-xun-jiao-fu-liu-cheng/xu-qiu-gou-tong-yu-que-ren.md)
 
 ## 十大行业牛逼方案
 
@@ -23,6 +25,7 @@
   * [用户留存变现方案](shi-da-hang-ye-niu-bi-fang-an/san-da-ye-tai-liu-zhuan-di-tu/yong-hu-liu-cun-bian-xian-fang-an.md)
 * [新零售行业](shi-da-hang-ye-niu-bi-fang-an/xin-ling-shou-hang-ye.md)
 * [SaaS行业](shi-da-hang-ye-niu-bi-fang-an/saas-hang-ye.md)
+* [电商行业](shi-da-hang-ye-niu-bi-fang-an/dian-shang-hang-ye.md)
 
 ## OP与SAAS产品
 
@@ -41,4 +44,3 @@
   * [智能运营](op-yu-saas-chan-pin/page-2/zhi-neng-yun-ying.md)
 * [产品服务](op-yu-saas-chan-pin/page-3/README.md)
   * [四类咨询服务](op-yu-saas-chan-pin/page-3/si-lei-zi-xun-fu-wu.md)
-  * [A类咨询交付流程](op-yu-saas-chan-pin/page-3/a-lei-zi-xun-jiao-fu-liu-cheng.md)
