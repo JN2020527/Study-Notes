@@ -23,7 +23,8 @@
   * [新零售全域流转](shi-da-hang-ye-niu-bi-fang-an/san-da-ye-tai-liu-zhuan-di-tu/xin-ling-shou-quan-yu-liu-zhuan.md)
   * [高客单价全域流转](shi-da-hang-ye-niu-bi-fang-an/san-da-ye-tai-liu-zhuan-di-tu/gao-ke-dan-jia-quan-yu-liu-zhuan.md)
   * [用户留存变现方案](shi-da-hang-ye-niu-bi-fang-an/san-da-ye-tai-liu-zhuan-di-tu/yong-hu-liu-cun-bian-xian-fang-an.md)
-* [新零售行业](shi-da-hang-ye-niu-bi-fang-an/xin-ling-shou-hang-ye.md)
+* [新零售行业](shi-da-hang-ye-niu-bi-fang-an/xin-ling-shou-hang-ye/README.md)
+  * [Apple授权店小程序](shi-da-hang-ye-niu-bi-fang-an/xin-ling-shou-hang-ye/apple-shou-quan-dian-xiao-cheng-xu.md)
 * [SaaS行业](shi-da-hang-ye-niu-bi-fang-an/saas-hang-ye.md)
 * [电商行业](shi-da-hang-ye-niu-bi-fang-an/dian-shang-hang-ye.md)
 
