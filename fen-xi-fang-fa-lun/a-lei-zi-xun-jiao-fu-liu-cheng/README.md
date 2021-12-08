@@ -18,4 +18,4 @@ OSM可以使高层思考现阶段的最重要目标是什么，哪些业务承�
 
 ## A类服务交付物
 
-![交付物](../../.gitbook/assets/image.png)
+![交付物](<../../.gitbook/assets/image (4).png>)
